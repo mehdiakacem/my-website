@@ -1,6 +1,12 @@
 body {
   font-family: Arial, sans-serif;
-  margin-left: 200px;
+  /* padding-left: 200px; */
   line-height: 1.6;
-  background-color: lightsteelblue;
+  /* background-color: lightsteelblue; */
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+  padding: 20px;
+  color: #333;
+  background-color: #f4f4f4;
 }
